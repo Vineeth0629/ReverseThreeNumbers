@@ -1,0 +1,15 @@
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\bin\Debug\net6.0\ReverseThreeNumbers.exe
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\bin\Debug\net6.0\ReverseThreeNumbers.deps.json
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\bin\Debug\net6.0\ReverseThreeNumbers.runtimeconfig.json
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\bin\Debug\net6.0\ReverseThreeNumbers.dll
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\bin\Debug\net6.0\ReverseThreeNumbers.pdb
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ReverseThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ReverseThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ReverseThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ReverseThreeNumbers.AssemblyInfo.cs
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ReverseThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ReverseThreeNumbers.dll
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\refint\ReverseThreeNumbers.dll
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ReverseThreeNumbers.pdb
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ReverseThreeNumbers.genruntimeconfig.cache
+C:\Users\91834\source\repos\ReverseThreeNumbers\ReverseThreeNumbers\obj\Debug\net6.0\ref\ReverseThreeNumbers.dll
