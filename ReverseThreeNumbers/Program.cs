@@ -28,7 +28,7 @@ namespace ReverseThreeNumbers
             Console.Write("Input third letter: ");
             //As ReadLine() returns string, so convert string to char
             letter2 = Convert.ToChar(Console.ReadLine());
-
+            //letter3= convert.ToChar
 
             Console.WriteLine("{2} {1} {0}", letter, letter1, letter2);
 

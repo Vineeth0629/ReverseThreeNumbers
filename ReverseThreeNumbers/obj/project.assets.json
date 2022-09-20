@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\91834\\source\\repos\\ReverseThreeNumbers\\ReverseThreeNumbers\\ReverseThreeNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\91834\\Desktop\\New folder\\ReverseThreeNumbers\\ReverseThreeNumbers\\ReverseThreeNumbers.csproj",
       "projectName": "ReverseThreeNumbers",
-      "projectPath": "C:\\Users\\91834\\source\\repos\\ReverseThreeNumbers\\ReverseThreeNumbers\\ReverseThreeNumbers.csproj",
+      "projectPath": "C:\\Users\\91834\\Desktop\\New folder\\ReverseThreeNumbers\\ReverseThreeNumbers\\ReverseThreeNumbers.csproj",
       "packagesPath": "C:\\Users\\91834\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\91834\\source\\repos\\ReverseThreeNumbers\\ReverseThreeNumbers\\obj\\",
+      "outputPath": "C:\\Users\\91834\\Desktop\\New folder\\ReverseThreeNumbers\\ReverseThreeNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\91834\\AppData\\Roaming\\NuGet\\NuGet.Config",
